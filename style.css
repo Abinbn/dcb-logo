@@ -1,0 +1,21 @@
+body 
+{
+	background-color: #222;
+    color: #fff;
+    /*font-family: 'Patrick Hand', cursive;*/
+       font-family: 'futura';
+
+}
+
+footer
+{
+    text-align: center;
+    justify-content: baseline;
+}
+
+canvas{ 
+width:140px; 
+height:120px ;
+fill:none ;
+}
+
